@@ -1,10 +1,10 @@
 #jupyterhub-logo a::after {
-  content: 'beta';
+  content: 'on mageo';
   color: red;
   position: relative;
   right: 12px;
   bottom: -12px;
-  font-size: 8px;
+  font-size: 9px;
 }
 
 #jupyterhub-logo a:hover {
